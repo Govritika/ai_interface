@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: rgba(100,100,100,0.4); border-radius: 6px; }
+
+.chat-scroll { max-height: 48vh; overflow:auto; }
